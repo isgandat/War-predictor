@@ -1,0 +1,80 @@
+Steps:
+1.) Download and set up all Python libraries you will use,
+numpy,pandas for manipulating data frames and arraies, maplotlib for plotting
+tkinter for user interface,openai to use Chat-GPT api for 
+leveraging for some missing information, and statsmodels for Econometric-style OLS regression     [DONE]
+
+2.) Set up working directory for project [DONE]
+
+3.) Write down 20-30 interstate conflicts since 1950, identify all countries which you need data on
+Identify years which you need data on [DONE]
+
+4.) Write down all easily avaliable statistics for countries in economics,demogrphics and politics   [DONE]
+################################################################################################
+Economics:                     Demographics:                                          Politics:
+__________                     ________________                                       ______________
+Gdp growth                     population change                                      Regime Type
+GDP_Per_Capita                 fertility rate                                         Majority Religion
+poverty_rate                   death rate                                             Had wars during last 10 years
+inflation                      infant death rate                                      Ideology
+Unemployment rate              Has Ethnic divison (majority is less than 80%)         
+interest rate                  Has Religious division(majority is less than 80%)      
+exchange rate                  Gender ratio
+gas price                      average age
+oil price                      life expectancy
+Military spending as %GDP      Population size
+urbanization 
+Land Size
+
+Also, this division of variables can gives us additional opportunity to see which family of variables have strongest correlation with War out of 3.
+NOTICE:this variable list is to signify what are commonly avaliable variables, and ones that will likely explain wars
+it's not so much about what I will necessarily pick.
+5.)Identify for which countries, which data you need (and is avaliable) and for which years.  [DONE]
+
+6.)Search and download all needed data.     [DONE]
+
+7.)Find way to filter data and create data frame (for each country) that contains all the necessary variables  [DONE]
+How I will filter data:
+I will write down all the variables I am looking for (from the what_data_to_look_for.txt)
+Since how I write variable does not match row names in the data frame, I will write down keywords from my variable
+       #and then use regex to find similar or matching variable names in data frame rows
+I will use one of the data frames (for US) as study to find all the usefl variables this massive World bank data offers
+After that I will filter through the varaiables that regex-keyword-matching produced, and pick ones I think matches 
+       #the variables I wrote down in what_data_to_look_for.txt best
+After I have set of usable variables, I will use my years_countries dictionary and usable variables set
+       to create a function that will take data frames of country as arguement and
+       from the data frame of country choose only rows that correspond to useful variables
+       and columns that correspond to useful years, and return filtered data frame.
+       I will store this new filtered data frame in the new folder, with the same names 
+        (name corresponds to country name in combatant_countries set)
+       
+
+8.)Write function that utilizes regional data and world data, and ChatGpt api to deal with missing values.  [DONE]
+fill rest of the remaining Na's with various methods (average, interpolate, 0). I will use interpolate technique since it is most efficient
+However, since it is pretty hard to interpolate over rows for my kind of data frame I will first transpose dataframes and then interpolate.
+
+
+9.)Use functions in 8 to fill missing values. Keep data frames transposed  [DONE]
+
+10.)Find function that creates a custom data frame for each war based on year of war, beligerents of war,  [DONE]
+and how many years before the war we track the war (the last variable will be custom based on data avaliability)
+the data frame tracks all the economic,demographics, and political statsitics for both countries 5-10 years before the war
+and has the varaible (which will be used as dependent variable later) Years_before_war. 
+
+11.) Create war dataframe for all possible conflicts in the 3, and store it in separate folder  [DONE]
+
+12.)Join all the data frames into one big data frame     [DONE]
+
+13.)Run regressions in model based on data frame 12, and choose the best one. y=years before the war , x's are the economic,political and demographic variables.
+
+14.) After regressions create a prediction model, that will use betas from prediction
+to predict years before the war between two countries, based on inputed current statistics for said countries
+
+15.)Make 2024 data frame for all statistics in 4, for all countries.
+
+16.)Create a function that will utilize model in 14, and df in 15 to give predictions of years before the war
+based on two countries chosen
+
+17.) Use tkinter to create GUI for project. Part of GUI will be a page where person can choose from scroll-down search bar
+two countries , and then press "see possible years before the war", and afterwards the result from functio 16 will be shown to the
+user

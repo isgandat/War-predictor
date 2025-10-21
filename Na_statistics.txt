@@ -1,0 +1,114 @@
+Na staitsitcs
+
+General
+total cells: 7785 total Nas: 2952 percentage of cell Na's : 37.91907514450867 Na replacement rate: 0.0
+
+Variables
+CPIA gender equality rating (1=low to 6=high):479
+Central government debt, total (% of GDP):396
+Energy imports, net (% of energy use):211
+GDP growth (annual %):110
+GDP per capita growth (annual %):110
+Inflation, GDP deflator (annual %):110
+Literacy rate, adult total (% of people ages 15 and above):446
+Military expenditure (% of GDP):167
+Real interest rate (%):352
+Trade (% of GDP):157
+Unemployment, male (% of male labor force) (national estimate):342
+Official exchange rate (LCU per US$, period average):72
+Years
+1969:124
+1970:134
+1971:123
+1972:120
+1973:119
+1974:111
+1975:95
+1976:91
+1977:92
+1978:82
+1979:52
+1991:68
+1992:61
+1993:34
+1994:32
+1995:35
+1996:35
+1997:35
+1998:38
+1999:31
+2000:23
+2001:21
+1980:25
+1981:22
+1982:78
+1983:71
+1984:71
+1985:71
+1986:71
+1987:69
+1988:85
+1989:88
+1990:74
+2014:16
+2015:22
+2016:22
+2017:12
+2018:14
+2019:12
+2020:11
+2010:8
+2011:11
+2012:16
+2013:16
+1968:106
+1960:57
+1961:41
+1964:41
+1965:41
+1966:41
+1967:54
+1962:25
+1963:25
+2002:10
+2003:13
+2004:5
+2005:3
+2006:10
+2007:10
+2008:10
+2021:5
+2022:8
+2009:6
+Countries
+Afghanistan:232
+Argentina:53
+Armenia:146
+Azerbaijan:143
+Cambodia:117
+Chad:77
+China:68
+Cuba:22
+Cyprus:117
+Egypt:86
+Eritrea:83
+Ethiopia:114
+Georgia:112
+India:106
+Iran:55
+Iraq:179
+Israel:93
+Libya:58
+Moldova:122
+Pakistan:112
+Panama:53
+Russia:165
+Somalia:62
+Syria:57
+Tanzania:69
+Turkey:81
+Uganda:99
+UK:33
+Ukraine:32
+US:72
+Vietnam:134

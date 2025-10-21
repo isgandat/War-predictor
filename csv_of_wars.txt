@@ -1,0 +1,29 @@
+war,combatant1,combatant2,year_of_start
+Karabakh_War_2,Azerbaijan,Armenia,2020
+Turkish_Invasion_of_Syria,Turkiye,Syrian Arab Republic,2016
+Russo-Ukrainian_War,Russian Federation,Ukraine,2022
+Russo-Georgian_war,Russian Federation,Georgia,2008
+US_Invasion_of_Iraq,United States,Iraq,2003
+US_Invasion_of_Afghanistan,United States,Afghanistan,2001
+Kargil_war,India,Pakistan,1999
+Nato_Involvment_in_Kosovo_War,Serbia,United States,1999
+Abkhaz_War,Georgia,Russian Federation,1992
+Ethiopean_Eritrean_war,Ethiopia,Eritrea,1998
+Transistrian_war,Moldova,Russian Federation,1992
+US_Invasion_of_Panama,United States,Panama,1989
+Karabakh_War_1,Azerbaijan,Armenia,1992
+Falkland_Wars,United Kingdom,Argentina,1982
+Iran-Iraq_War,Iran,Iraq,1980
+Gulf_War,United States,Iraq,1990
+Soviet-Afghan_War,Russian Federation,Afghanistan,1979
+Sino-Vietnamese_War,China,Viet Nam,1979
+Vietnmese-Cambodian_War,Cambodia,Viet Nam,1978
+Uganda-Tanzania_War,Tanzania,Uganda,1978
+Chadian-Libyan_War,Chad,Libya,1978
+Ogaden_War,Ethiopia,Somalia,1977
+Turkish_Invasion_Of_Cyprus,Turkiye,Cyprus,1974
+Yom-Kippur_War,Israel,Egypt,1973
+Indo-Pakistan_War_71,India,Pakistan,1971
+Six_Day_War,Israel,Egypt,1967
+Indo_Pakistan_War_65,India,Pakistan,1965
+Bay_of_Pigs_Invasion,United States,Cuba,1961

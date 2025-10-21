@@ -1,0 +1,29 @@
+war,combatant1,combatant2,year_of_start,War Predictor Prediction Accuracy
+Karabakh_War_2,Azerbaijan,Armenia,2020,-0.7999999999999998
+Turkish_Invasion_of_Syria,Turkiye,Syrian Arab Republic,2016,Na
+Russo-Ukrainian_War,Russian Federation,Ukraine,2022,1.2000000000000002
+Russo-Georgian_war,Russian Federation,Georgia,2008,-0.2999999999999998
+US_Invasion_of_Iraq,United States,Iraq,2003,0.7000000000000002
+US_Invasion_of_Afghanistan,United States,Afghanistan,2001,Na
+Kargil_war,India,Pakistan,1999,Na
+Nato_Involvment_in_Kosovo_War,Serbia,United States,1999,-0.7999999999999998
+Abkhaz_War,Georgia,Russian Federation,1992,Na
+Ethiopean_Eritrean_war,Ethiopia,Eritrea,1998,Na
+Transistrian_war,Moldova,Russian Federation,1992,Na
+US_Invasion_of_Panama,United States,Panama,1989,Na
+Karabakh_War_1,Azerbaijan,Armenia,1992,Na
+Falkland_Wars,United Kingdom,Argentina,1982,Na
+Iran-Iraq_War,Iran,Iraq,1980,Na
+Gulf_War,United States,Iraq,1990,Na
+Soviet-Afghan_War,Russian Federation,Afghanistan,1979,Na
+Sino-Vietnamese_War,China,Viet Nam,1979,Na
+Vietnmese-Cambodian_War,Cambodia,Viet Nam,1978,Na
+Uganda-Tanzania_War,Tanzania,Uganda,1978,Na
+Chadian-Libyan_War,Chad,Libya,1978,Na
+Ogaden_War,Ethiopia,Somalia,1977,Na
+Turkish_Invasion_Of_Cyprus,Turkiye,Cyprus,1974,Na
+Yom-Kippur_War,Israel,Egypt,1973,Na
+Indo-Pakistan_War_71,India,Pakistan,1971,Na
+Six_Day_War,Israel,Egypt,1967,Na
+Indo_Pakistan_War_65,India,Pakistan,1965,Na
+Bay_of_Pigs_Invasion,United States,Cuba,1961,Na

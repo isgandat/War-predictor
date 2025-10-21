@@ -1,0 +1,37 @@
+this file keeps track of what data I have downloaded so far so that I can
+use data scrapping for the final file for it to run from scratch https://data.worldbank.org/:
+https://datatopics.worldbank.org/world-development-indicators/ bulk download of all world data
+
+World bank data on countries:                           World bank data on regions
+###########################                             ##########################
+Azerbaijan                                              world
+Armenia                                                 eastern_europe_central_asia
+Russia                                                  east asia
+Ukraine                                                 middle east and north africa
+Georgia                                                 latin america
+Moldova                                                 north america
+China                                                   eu
+Vietnam                                                 south asia
+Cambodia                                                sub saharan africa
+UK 
+Cyprus
+Panama
+Argentina
+Cuba
+Turkey
+Syria
+Iraq
+Iran
+Libya
+Israel
+Egypt
+US
+Afghanistan
+India
+Pakistan
+Ethiopia
+Eritrea
+Tanzania
+Uganda
+Chad
+Somalia
