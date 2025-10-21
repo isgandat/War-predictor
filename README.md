@@ -263,5 +263,5 @@ This calls test_the_model(conflicts):
 
 ### Maintainer
 
-- Author: Turan Isgandarli
+- Author: Turan Isgandarli, Dachi Gomiashvili, Isabella Levkovic, Rasul Karimov
 - Project: War Predictor — empirical exploration of macro indicators as early signals of interstate conflict.
